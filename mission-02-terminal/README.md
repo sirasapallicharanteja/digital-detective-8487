@@ -74,4 +74,3 @@ Through these activities, I improved my understanding of Terminal commands and b
 
 - `mission-02-terminal/README.md`
 - `terminal-practice/` and the practice files created during the mission.
-- can you write th e difficulty faced and how I resolved also
